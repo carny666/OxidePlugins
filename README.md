@@ -1,2 +1,4 @@
 # OxidePlugins
-Various Oxide plugins.
+Various Oxide plugins. Mostly for rust.
+
+https://umod.org/user/CARNY666
